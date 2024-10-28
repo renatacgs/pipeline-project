@@ -1,6 +1,6 @@
 # Meu Projeto
 
-Este é um exemplo de projeto Node.js com uma pipeline de CI configurada no GitHub Actions.
+Este é um projeto Node.js com uma pipeline de CI configurada no GitHub Actions.
 
 ## Scripts
 
